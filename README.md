@@ -1,6 +1,5 @@
 🕒 Digital Clock
 A simple digital clock built with HTML, CSS, and JavaScript.
-This was my first frontend project, created to practice JavaScript logic and DOM manipulation.
 
 ✨ Features
 Shows real-time clock ⏱
